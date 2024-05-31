@@ -1,5 +1,4 @@
 import discord
-from discord import FFmpegPCMAudio
 from discord.ext import commands
 
 intents = discord.Intents.all()
